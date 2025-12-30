@@ -37,6 +37,11 @@ public class HashMapDemo {
          * Performance: Offers constant-time performance (O(1)) for basic
          * operations like get and put, assuming the hash function disperses elements
          * properly.
+         * A hash function is an algorithm that takes an input (or "key") and returns a
+         * fixed-size string of bytes, typically a numerical value. The output is known
+         * as a hash code, hash value, or simply hash.
+         * The primary purpose of a hash function is to map data of arbitrary size to
+         * data of fixed size.
          */
 
     }
